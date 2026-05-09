@@ -352,5 +352,4 @@ def check_all_sites():
 
 
 if __name__ == "__main__":
-    send_telegram("✅ OJAS Alert Bot Working Successfully")
     check_all_sites()
